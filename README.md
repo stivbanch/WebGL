@@ -11,8 +11,9 @@ During work I experimented with different tools for converting camera
 pictures to 3d objects using different cameras, different Android camera softwares
 but with result not good enough to be presented here. Main problem was related to 
 inabillity to take pictures which are aligned with software requrements,
-simple, objects, after editing, was to big for fast and effective results to be
+simple objects, after editing, was to big for fast and effective results to be
 used in browswers on all platforms.
+
 Software list:
 Autodesk ReMake and 123D Catch
 Models was edited in 3ds Max and Blender.
