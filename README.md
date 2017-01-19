@@ -5,7 +5,7 @@ to see final result of this project with one of available models type
 https://stivbanch.github.io  in your browser.
 
 Additional data:
-ThreeJS library is pulled from https://github.com/mrdoob/three.js/ documentation
+ThreeJS library is pulled from https://github.com/mrdoob/three.js/ , documentation
 from threejs.org is used during project development.
 
 During work I experimented with different tools for converting camera
