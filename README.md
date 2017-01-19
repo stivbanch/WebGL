@@ -1,4 +1,4 @@
-# stivbanch.github.io
+# Stiv Web GL test
 ![images](https://github.com/stivbanch/stivbanch.github.io/blob/master/images/Callas.jpg)
 Thanks to github now is possible to host static websites using their service
 to see final result of this project with one of available models type
