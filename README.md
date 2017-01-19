@@ -12,7 +12,7 @@ pictures to 3d objects using different cameras, different Android camera softwar
 but with result not good enough to be presented here. Main problem was related to 
 inabillity to take pictures which are aligned with software requrements,
 simple objects, after editing, was to big for fast and effective results to be
-used in browsers on smartphones, and point is to be used on all platforms equaly.
+used in browsers on smartphones, and point is to be used on all platforms equally.
 
 Software list:
 Autodesk ReMake and 123D Catch
